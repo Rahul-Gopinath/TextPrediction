@@ -1,4 +1,4 @@
-# TextPrediction
+# TextGeneration
 
 Our goal is to train a model to emulate the speaking style of the text it is trained on.
 Dataset: https://www.kaggle.com/c/spooky-author-identification
